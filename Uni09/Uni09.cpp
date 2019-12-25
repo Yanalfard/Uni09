@@ -1,5 +1,4 @@
 #include <iostream>
-#include <list>
 #include "Student.h"
 using namespace std;
 
